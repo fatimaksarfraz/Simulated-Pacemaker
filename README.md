@@ -3,11 +3,13 @@
  # Simulated Pacemaker
 
 Fall 2024
+
 Group Members: Fatima, Mehak, Peace, Rebecca, Samridhi and Serena
 
 This repository includes the Python based GUI/Device Control Monitor (DCM) as well as MATLAB Simulink models and implements it on the FRDM-K64F microcontroller. The user is able to choose their own parameters (such as various pacing modes: AOO, VOO, AAI, VVI) and view a real-time electrogram.
 
 Image from: https://www.veryicon.com/icons/healthcate-medical/medical-color-icon/pacemaker.html
+
 
 
 
